@@ -1,0 +1,23 @@
+body{
+ text-align: center;
+}
+span{
+    display: block;
+    margin-bottom: 15px;
+}
+button{
+    background-color: rgb(73, 73, 243);
+    height: 25px;
+    width: 45px;
+    border-radius: 13px;
+    border-style: none;
+    color: white;
+    
+}
+button:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+button:active{
+    opacity: 0.7;
+}
